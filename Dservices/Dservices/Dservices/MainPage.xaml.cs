@@ -36,7 +36,7 @@ namespace Dservices
         {
             var service = DependencyService.Get<IText2Voice>();
           
-            service.speak("Juliet Paseme el codigo, porfavor no seas mala");
+            service.speak("Hola que hace: ¿Programar en Xamarin o que hace?");
           
         }
 
